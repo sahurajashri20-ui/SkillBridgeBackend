@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Test Student",
+      "email": "test@skillbridge.com",
+      "skills": [
+        "Excel",
+        "Python"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rajashri Sahu",
+      "email": "sahurajashri20@gmail.com",
+      "skills": [
+        "Excel",
+        "sql"
+      ],
+      "qualification": "BSc",
+      "college": "Taratarini Degree College",
+      "graduationYear": "2024",
+      "certificateNames": [],
+      "achievements": "SIH",
+      "updatedAt": "2026-09-27T03:10:43.012Z",
+      "assessment": {
+        "qualification": "BSc",
+        "totalCorrect": 6,
+        "totalQuestions": 10,
+        "percentage": 60,
+        "skillResults": [
+          {
+            "skill": "Excel",
+            "percentage": 50,
+            "level": "Developing"
+          },
+          {
+            "skill": "Python",
+            "percentage": 50,
+            "level": "Developing"
+          },
+          {
+            "skill": "SQL",
+            "percentage": 0,
+            "level": "Needs Improvement"
+          },
+          {
+            "skill": "Data Analysis",
+            "percentage": 100,
+            "level": "Strong"
+          },
+          {
+            "skill": "Communication",
+            "percentage": 100,
+            "level": "Strong"
+          }
+        ],
+        "gaps": [
+          {
+            "skill": "Excel",
+            "percentage": 50,
+            "level": "Developing"
+          },
+          {
+            "skill": "Python",
+            "percentage": 50,
+            "level": "Developing"
+          },
+          {
+            "skill": "SQL",
+            "percentage": 0,
+            "level": "Needs Improvement"
+          }
+        ],
+        "strongSkills": [
+          {
+            "skill": "Data Analysis",
+            "percentage": 100,
+            "level": "Strong"
+          },
+          {
+            "skill": "Communication",
+            "percentage": 100,
+            "level": "Strong"
+          }
+        ],
+        "recommendations": [
+          "Practice advanced Excel formulas, Pivot Tables and data visualization.",
+          "Strengthen Python fundamentals and practice data-analysis projects.",
+          "Practice SQL queries, filtering, joins and database exercises."
+        ],
+        "companyMatches": [
+          {
+            "company": "Demo Business Solutions",
+            "role": "Business Analyst Trainee",
+            "qualifications": [
+              "BBA",
+              "MBA",
+              "BCom",
+              "BSc",
+              "BTech"
+            ],
+            "skills": {
+              "Excel": 50,
+              "Data Analysis": 50,
+              "Communication": 50
+            }
+          }
+        ],
+        "completedAt": "2026-09-27T03:10:42.978Z"
+      }
+    }
+  ]
+}
